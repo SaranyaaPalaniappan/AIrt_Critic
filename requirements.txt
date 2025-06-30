@@ -3,3 +3,5 @@ opencv-python-headless
 numpy
 pandas
 matplotlib
+scikit-learn
+pillow
